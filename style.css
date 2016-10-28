@@ -6,8 +6,8 @@
   padding:5%;
 }
 .pixel{
-  width:50px;
-  height:50px;
+  width:5px;
+  height:5px;
   float:left;
   background-color: white;
   border: 1px solid gray;
@@ -19,19 +19,17 @@
   margin:auto;
   padding:5%;
 }
-.red{
-  width:5px;
-  height: 5px;
+#one{
   background-color: red;
-  padding:5%;
-  margin-right: 5px;
-  float: left;
 }
-.blue{
+#two{
+  background-color: blue;
+}
+.pc{
   width:5px;
   height: 5px;
-  background-color: blue;
   padding:5%;
   margin-right: 5px;
   float: left;
+  border-radius: 50%;
 }
