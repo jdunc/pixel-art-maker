@@ -1,34 +1,36 @@
 .container{
-  width:50vw;
-  height: 50vh;
-  background-color: orange;
+  /*width:70vw;
+  height: 50vh;*/
+  /*width:1000px;*/
+  height: 500px;
+  /*background-color: orange;*/
   margin:auto;
-  padding:5%;
+  padding:0% 1% 0% 1%;
+  overflow: hidden;
+  border: 15px solid;
+  box-sizing:border-box;
+}
+p{
+  float:left;
+  margin-right: 15px;
 }
 .pixel{
-  width:5px;
-  height:5px;
+  width:10px;
+  height:10px;
   float:left;
   background-color: white;
   border: 1px solid gray;
 }
 .pal{
-  width:50vw;
+  width:60vw;
   height: 5vh;
-  background-color: yellow;
+  /*background-color: yellow;*/
   margin:auto;
-  padding:5%;
-}
-#one{
-  background-color: red;
-}
-#two{
-  background-color: blue;
 }
 .pc{
-  width:5px;
-  height: 5px;
-  padding:5%;
+  width: 15px;
+  height: 15px;
+  /*padding:5%;*/
   margin-right: 5px;
   float: left;
   border-radius: 50%;
