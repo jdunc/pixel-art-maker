@@ -10,7 +10,7 @@
   height:50px;
   float:left;
   background-color: white;
-  margin-right: 5px;
+  border: 1px solid gray;
 }
 .pal{
   width:50vw;
